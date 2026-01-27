@@ -1,4 +1,4 @@
-# Ex.No: 1  Installation of Unity for Game Development
+# Exp.No: 1 - Installation of Unity for Game Development
 ### DATE:                                                                        
 ### REGISTER NUMBER: 212223240156
 ### AIM: 
