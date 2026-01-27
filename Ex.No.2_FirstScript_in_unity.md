@@ -1,4 +1,4 @@
-# Ex.No: 2  Welcome Script in Unity
+# Exp.No: 2 - Welcome Script in Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER: 212223240156
 ### AIM: 
