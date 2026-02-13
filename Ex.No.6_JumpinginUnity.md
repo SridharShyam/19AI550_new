@@ -29,7 +29,7 @@ public class PlayerJump : MonoBehaviour
 {
     private Rigidbody rb;
     public float jumpForce = 5f;
-    
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -37,25 +37,20 @@ public class PlayerJump : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) )
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
-            
         }
     }
-
-   
 }
 ```
 ### Output:
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8545fd14-a8e6-4612-ae09-ccd27daea6f4" />
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c2f999f3-464d-4bae-83e5-b7e14b646113" />
 
-
-
-
-
-
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4984ad6e-9cbe-494f-b2b3-04f388431b4b" />
 
 ### Result:
 Thus the simple jumping behavior was implemented successfully.
