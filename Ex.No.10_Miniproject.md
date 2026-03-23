@@ -285,7 +285,7 @@ public class Spawner : MonoBehaviour
 ```
 ### Output:
 
-![alt text](image.png)
+<img width="1596" height="792" alt="image" src="https://github.com/user-attachments/assets/803ff1b4-3573-483e-b168-23e977ad9d70" />
 
 ### Result:
 Thus the game was developed using Unity and adopted simple AI techniques.
